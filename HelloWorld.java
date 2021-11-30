@@ -1,5 +1,5 @@
 public class HelloWorld{
 	public static void main(String[] args){
-		System.out.println("Hello, invoking from webhook");
+		System.out.println("Hello, invoking from webhook2");
 	}
 }
